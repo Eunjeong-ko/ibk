@@ -1,1 +1,1 @@
-# ibk
+# Hyperledger Fabric lab1
